@@ -1,0 +1,4 @@
+headers = hiredis.h
+staticLibraries = libhiredis.a
+package = hiredis
+libraryPaths = /usr/local/lib
